@@ -1,0 +1,6 @@
+[Tue Sep 17 14:49:24.458294 2019] [core:alert] [pid 21148:tid 1936] [client 127.0.0.1:51645] D:/xampp/htdocs/test/public_html/.htaccess: </IfModule> without matching <IfModule> section
+[Tue Sep 17 14:49:43.057901 2019] [core:alert] [pid 21148:tid 1948] [client 127.0.0.1:51662] D:/xampp/htdocs/test/public_html/.htaccess: </IfModule> without matching <IfModule> section
+[Tue Sep 17 14:49:43.713727 2019] [core:alert] [pid 21148:tid 1936] [client 127.0.0.1:51663] D:/xampp/htdocs/test/public_html/.htaccess: </IfModule> without matching <IfModule> section
+[Tue Sep 17 14:50:00.441666 2019] [core:alert] [pid 21148:tid 1948] [client 127.0.0.1:51688] D:/xampp/htdocs/test/public_html/.htaccess: </IfModule> without matching <IfModule> section
+[Tue Sep 17 14:50:01.305608 2019] [core:alert] [pid 21148:tid 1936] [client 127.0.0.1:51689] D:/xampp/htdocs/test/public_html/.htaccess: </IfModule> without matching <IfModule> section
+[Tue Sep 17 14:50:33.851908 2019] [core:alert] [pid 21148:tid 1948] [client 127.0.0.1:51725] D:/xampp/htdocs/test/public_html/.htaccess: </IfModule> without matching <IfModule> section
